@@ -25,7 +25,7 @@
         #b6459a：显示颜色
         fluent-python-2e-zh：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         fluent-python-2e-zh：ApacheCN 的 Github 仓库名称
 -->
@@ -40,7 +40,7 @@
 > 
 > 真相一旦入眼，你就再也无法视而不见。——《黑客帝国》
 
-* [在线阅读](https://flpy.apachecn.org)
+* [在线阅读](https://flpy.flygon.net)
 ## 下载
 
 ### Docker
